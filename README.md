@@ -1,16 +1,22 @@
-## Hi there 👋
+<div id="viewprof" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ngonga0&style=flat-square&color=red" alt="">
+</div>
 
-<!--
-**ngonga0/ngonga0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :trophy: Достижения :
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=ngonga0" alt=""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: Наиболее используемые языки : 
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngonga0" alt=""/>
+</div>
+
+### :bar_chart: Статистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngonga0&theme=merko" alt=""/>
+</div>
+
